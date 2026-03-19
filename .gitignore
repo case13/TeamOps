@@ -1,0 +1,50 @@
+# Delphi compiled and temporary files
+*.dcu
+*.ddp
+*.dcp
+*.identcache
+*.local
+*.map
+*.stat
+*.tvsconfig
+*.rsm
+*.dres
+*.res
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.bak
+*.tmp
+
+# Delphi IDE files
+*.dsk
+*.skincfg
+*.projdata
+*.groupproj.local
+
+# History and cache
+__history/
+*.~*
+*.or
+*.log
+
+# Build folders
+bin/
+lib/
+Win32/
+Win64/
+Debug/
+Release/
+
+# Backup and temporary editor files
+*.~pas
+*.~dfm
+*.~dpr
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Git keep
+!.gitkeep
